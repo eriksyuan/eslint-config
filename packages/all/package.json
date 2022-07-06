@@ -1,0 +1,16 @@
+{
+  "name": "@eriksyuan/eslint-config",
+  "version": "0.1.0",
+  "description": "",
+  "license": "MIT",
+  "main": "index.js",
+  "files": [
+    "index.js"
+  ],
+  "peerDependencies": {
+    "eslint": ">=7.4.0"
+  },
+  "dependencies": {
+    "@eriksyuan/eslint-config-vue": "workspace:*"
+  }
+}

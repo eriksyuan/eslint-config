@@ -1,0 +1,16 @@
+{
+  "name": "@eriksyuan/eslint-config-vue",
+  "version": "0.1.0",
+  "description": "",
+  "author": "eriksyuan",
+  "license": "MIT",
+  "main": "index.js",
+  "files": [
+    "index.js"
+  ],
+  "scripts": {},
+  "dependencies": {
+    "@eriksyuan/eslint-config-ts": "workspace:*",
+    "eslint-plugin-vue": "^9.2.0"
+  }
+}
